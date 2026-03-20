@@ -19,8 +19,8 @@ A **modern Flutter application** built for practicing **API integration**, showc
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/screen1.png" width="45%" />
-  <img src="screenshots/screen2.png" width="45%" />
+  <img src="screenshots/Screenshot_1.png" width="45%" />
+  <img src="screenshots/Screenshot_2.png" width="45%" />
 </p>
 
 ---
