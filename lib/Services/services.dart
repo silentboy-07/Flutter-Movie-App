@@ -5,7 +5,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:moviesapp/Model/model.dart';
 
-const apiKey = "ec18c79cf81e99df281fc2ccf4382330";
+const apiKey = "YOUR_API_KEY";
 
 class APIservice {
   final nowShowingApi =
